@@ -1,0 +1,51 @@
+Define Software Engineering
+
+Question: What is software engineering, and how does it differ from traditional programming?
+
+Answer:
+
+### 1. Define Software Engineering
+
+**Software Engineering** is the application of engineering principles to the development of software in a systematic method. It involves planning, designing, constructing, testing, and maintaining software systems.
+
+**Differences from Traditional Programming**:
+- **Scope**: Software engineering includes project management, requirements analysis, and architecture design, whereas traditional programming focuses on writing code.
+- **Approach**: Emphasizes structured methodologies and tools to ensure quality and maintainability.
+
+Software Development Life Cycle (SDLC)
+
+Question: Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+
+Answer:
+
+### 2. Software Development Life Cycle (SDLC)
+
+**Phases**:
+1. **Planning**: Define project scope and objectives.
+2. **Requirements Analysis**: Gather and analyze user requirements.
+3. **Design**: Create architectural designs and specifications.
+4. **Implementation**: Write and compile the source code.
+5. **Testing**: Validate the software through various tests.
+6. **Deployment**: Release the software to users.
+7. **Maintenance**: Update and fix software as needed.
+
+Agile vs. Waterfall Models
+
+Question: Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
+
+Answer:
+
+### 3. Agile vs. Waterfall Models
+
+**Waterfall Model**:
+- Sequential phases.
+- Preferred for well-defined projects with stable requirements.
+
+**Agile Model**:
+- Iterative and incremental.
+- Preferred for projects needing flexibility and customer feedback.
+
+**Key Differences**:
+- **Flexibility**: Agile is more flexible than Waterfall.
+- **Customer Involvement**: Agile involves customers throughout, Waterfall involves them mostly in the beginning and end.
+
